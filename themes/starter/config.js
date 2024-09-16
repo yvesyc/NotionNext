@@ -207,7 +207,7 @@ const CONFIG = {
     {
       STARTER_TEAM_ITEM_AVATAR: '/images/starter/team/team-00.png',
       STARTER_TEAM_ITEM_NICKNAME: 'Yves YAN',
-      STARTER_TEAM_ITEM_DESCRIPTION: '毕业于 ESAD Pyrénée。'
+      STARTER_TEAM_ITEM_DESCRIPTION: '毕业于 ESAD Pyrénée'
     },
     {
       STARTER_TEAM_ITEM_AVATAR: '/images/starter/team/team-01.png',
