@@ -206,24 +206,24 @@ const CONFIG = {
   STARTER_TEAM_ITEMS: [
     {
       STARTER_TEAM_ITEM_AVATAR:
-        'https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fa06c61bb-980e-4180-bc18-c15f92c78bb4%2Ftangly1024.jpg?table=collection&id=8e7acf17-de09-4fa1-abde-b5b80ad4a813&t=8e7acf17-de09-4fa1-abde-b5b80ad4a813&width=100&cache=v2',
-      STARTER_TEAM_ITEM_NICKNAME: 'Tangly',
-      STARTER_TEAM_ITEM_DESCRIPTION: 'Developer'
+        'https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F119ea908-15fb-46bd-9684-abd719f61473%2F6ef8dd8f-3a92-4371-be7f-eb759aa88613%2Ftx.jpg?table=block&id=103d0f92-b7d0-803e-b0c4-d819e26f78d8&spaceId=119ea908-15fb-46bd-9684-abd719f61473&width=2000&userId=ccbba41f-2a5f-4b7b-9e5d-e76af241dc35&cache=v2',
+      STARTER_TEAM_ITEM_NICKNAME: 'Yves YAN',
+      STARTER_TEAM_ITEM_DESCRIPTION: '毕业于 ESAD Pyrénées，早年通过 CampusArt 项目 DIY 成功申请到法国艺术院校。'
     },
     {
       STARTER_TEAM_ITEM_AVATAR: '/images/starter/team/team-01.png',
       STARTER_TEAM_ITEM_NICKNAME: 'Melissa Tatcher',
-      STARTER_TEAM_ITEM_DESCRIPTION: 'Marketing Expert'
+      STARTER_TEAM_ITEM_DESCRIPTION: '毕业于ESAD TALM'
     },
     {
       STARTER_TEAM_ITEM_AVATAR: '/images/starter/team/team-02.png',
       STARTER_TEAM_ITEM_NICKNAME: 'Stuard Ferrel',
-      STARTER_TEAM_ITEM_DESCRIPTION: 'Digital Marketer'
+      STARTER_TEAM_ITEM_DESCRIPTION: '毕业于ESAD Amiens'
     },
     {
       STARTER_TEAM_ITEM_AVATAR: '/images/starter/team/team-03.png',
       STARTER_TEAM_ITEM_NICKNAME: 'Eva Hudson',
-      STARTER_TEAM_ITEM_DESCRIPTION: 'Creative Designer'
+      STARTER_TEAM_ITEM_DESCRIPTION: '法国人'
     }
   ],
 
