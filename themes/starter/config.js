@@ -205,8 +205,7 @@ const CONFIG = {
   // 这里不支持CONFIG和环境变量，需要一一修改此处代码。
   STARTER_TEAM_ITEMS: [
     {
-      STARTER_TEAM_ITEM_AVATAR:
-        'https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F119ea908-15fb-46bd-9684-abd719f61473%2F6ef8dd8f-3a92-4371-be7f-eb759aa88613%2Ftx.jpg?table=block&id=103d0f92-b7d0-803e-b0c4-d819e26f78d8&spaceId=119ea908-15fb-46bd-9684-abd719f61473&width=2000&userId=ccbba41f-2a5f-4b7b-9e5d-e76af241dc35&cache=v2',
+      STARTER_TEAM_ITEM_AVATAR:'https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F119ea908-15fb-46bd-9684-abd719f61473%2F6ef8dd8f-3a92-4371-be7f-eb759aa88613%2Ftx.jpg?table=block&id=103d0f92-b7d0-803e-b0c4-d819e26f78d8&spaceId=119ea908-15fb-46bd-9684-abd719f61473&width=2000&userId=ccbba41f-2a5f-4b7b-9e5d-e76af241dc35&cache=v2',
       STARTER_TEAM_ITEM_NICKNAME: 'Yves YAN',
       STARTER_TEAM_ITEM_DESCRIPTION: '毕业于 ESAD Pyrénées，早年通过 CampusArt 项目 DIY 成功申请到法国艺术院校。'
     },
