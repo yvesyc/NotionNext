@@ -211,17 +211,17 @@ const CONFIG = {
     },
     {
       STARTER_TEAM_ITEM_AVATAR: '/images/starter/team/team-01.png',
-      STARTER_TEAM_ITEM_NICKNAME: 'Melissa Tatcher',
+      STARTER_TEAM_ITEM_NICKNAME: 'Élise Dupont',
       STARTER_TEAM_ITEM_DESCRIPTION: '毕业于ESAD TALM'
     },
     {
       STARTER_TEAM_ITEM_AVATAR: '/images/starter/team/team-02.png',
-      STARTER_TEAM_ITEM_NICKNAME: 'Stuard Ferrel',
+      STARTER_TEAM_ITEM_NICKNAME: 'Camille Laurent',
       STARTER_TEAM_ITEM_DESCRIPTION: '毕业于ESAD Amiens'
     },
     {
       STARTER_TEAM_ITEM_AVATAR: '/images/starter/team/team-03.png',
-      STARTER_TEAM_ITEM_NICKNAME: 'Eva Hudson',
+      STARTER_TEAM_ITEM_NICKNAME: 'Sophie Moreau',
       STARTER_TEAM_ITEM_DESCRIPTION: '法国人'
     }
   ],
